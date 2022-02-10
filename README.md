@@ -1,5 +1,5 @@
 # project-nasa
-An enterprise level Node application and deployed to the cloud (AWS)
+An enterprise level Node application, deployed to the cloud (AWS)
 Learnt to build secure and performant, large scale applications like a senior backend developer
 Make good architecture decisions and help others on your team
 Using NodeJS for production grade apps including REST APIs and GraphQL APIs
